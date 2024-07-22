@@ -72,7 +72,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yildizbaran/yildizbaran/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/yildizbaran/yildizbaran/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
 
@@ -89,7 +90,5 @@
 </div>
 
 
-
 ###
 
-![snake gif](https://github.com/yildizbaran/yildizbaran/blob/output/github-contribution-grid-snake.gif)
