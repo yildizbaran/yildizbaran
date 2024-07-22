@@ -13,11 +13,8 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/baran-yıldız-3703582ba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="yildizz.baran23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/baranyildizz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="baranyildizz" height="30" width="40" /></a>  
+  <a href = "mailto: yildizz.baran23@gmail.com"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="30" width="40" /></a>
   </a>
 </div>
 
