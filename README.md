@@ -88,4 +88,8 @@
   <img src="https://profile-counter.glitch.me/yildizbaran/count.svg?"  />
 </div>
 
+
+
 ###
+
+![snake gif](https://github.com/yildizbaran/yildizbaran/blob/output/github-contribution-grid-snake.gif)
